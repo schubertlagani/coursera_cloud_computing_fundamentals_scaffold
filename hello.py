@@ -1,8 +1,7 @@
-def add(x,y):
-    return x+y
-    
-x=1
-y=1
-result=add(x,y)
+def add(x, y):
+    return x + y
 
-print(f"The sum of {x} and {y} is {result}")
+
+result = add(1, 1)
+
+print(f"The sum of 1 and 1 is {result}")
